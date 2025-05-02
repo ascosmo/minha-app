@@ -1,0 +1,2 @@
+# minha-app
+teste argocd
